@@ -1,0 +1,12 @@
+body{
+	background-color: #f4f4f4;
+}
+.name{
+  margin: 30px;
+  color: #858585;
+	font-size: 30px;
+}
+.name span{
+  color: #353535;
+	font-size: 35px;
+}
