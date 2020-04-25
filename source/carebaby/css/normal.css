@@ -1,0 +1,40 @@
+body{
+	background-color: #f4f4f4;
+	font-size: 28px;
+}
+
+.header{
+	display:flex;
+	padding: 30px;
+	background-color: #fff;
+	border-radius:4px;
+	font-size: 36px;
+}
+
+.name{
+	color:#175bdf;
+	font-size: 36px;
+	font-weight: bold;
+}
+
+.itembg{
+	display:flex;
+	flex-direction: column;
+	padding: 10px;
+	margin: 1px 10px;
+	background-color: #fff;
+	border-radius:16px;
+	font-size: 36px;
+}
+
+.title{
+	margin: 10px 50px;
+	color:#000;
+	font-size: 44px;
+	font-weight: bold;
+}
+
+.title2{
+	margin: 0 50px;
+	color:#878787;
+}
